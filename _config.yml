@@ -1,0 +1,15 @@
+#info
+title: Roman Yu
+title-cn: YY
+desc: Departure is just an Attitude!
+sub-desc: I write posts that are 500 words or less. Simple and quick to read (2 minute and 30 seconds or less).
+disclaimer: Content on this site is my own and in no way represents my employer at anytime. Some of the work, however, is work done for my employer(s).
+
+name: Roman Yu
+email: roman_yu@csu.edu.cn
+dribbble: http://dribbble.com/awolfe76
+github: https://github.com/romanyu
+weibo: https://weibo.com/1668843440
+
+#build config
+markdown: redcarpet 
