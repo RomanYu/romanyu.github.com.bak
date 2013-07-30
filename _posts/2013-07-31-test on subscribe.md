@@ -2,9 +2,9 @@
 layout: post
 title: Can Subscription Work?
 desc: My site updates, as clicked by mouse, you can subscribe my web easily. But cause of new item, could it work or not, I don't know, either. Take it easy, now... have a try.
-date: July 30, 2013
+date: July 31, 2013
 
-permalink: /posts/my-first-github-gossip.html
+permalink: /posts/can-subscription-work.html
 ---
 My site updates,and on clicked by mouse, you can subscribe my web easily. But cause of new item, could it work or not, I don't know, either. Take it easy, now... have a try.
 
