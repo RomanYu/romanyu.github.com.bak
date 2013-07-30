@@ -203,6 +203,7 @@ a.source:hover {
 }
 .jiathis_style_32x32{
 	float:right;
+	clear:right;
 }
 .myphoto{
 	float:left;
