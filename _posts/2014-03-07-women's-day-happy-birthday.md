@@ -25,4 +25,4 @@ permalink: /posts/women's-day-happy-birthday.html
 
 P.S.下次更新通告我的复试情况，我的人人即将不更新了，动态会在三个地方，一个是这里<http://shellfish.cn/>;一个是空间，一个是朋友圈。欢迎大家关注～～
 
-微信请扫我：<img src="http://shellfish.cn/img/WeChat.jpg"/>
+微信请扫我：<img src="http://shellfish.cn/img/WeChat.jpg"  width="150" height="150"/>
