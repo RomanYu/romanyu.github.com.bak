@@ -10,7 +10,7 @@ permalink: /posts/women's-day-happy-birthday.html
 
 当然，其实明天还有一位小伙伴过生日，空间盗图一张，严禁转贴，违者必究。
 
-<img src="http://shellfish.cn/img/chou.jepg" class="wrapper"/>
+<img src="http://shellfish.cn/img/chou.jpeg" class="wrapper"/><br/>
 - - -
 
 祝我的小伙伴Miss Chou妇女节生日快乐。大学第四年了，说着说着就要离开了，六月底离校，在长沙的时间也就不多了。其实真的很高兴在长沙这个鸟都不拉屎的地方，遇到各位，我的同学们，我的老乡们，我的队友们。
