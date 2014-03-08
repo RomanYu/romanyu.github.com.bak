@@ -39,8 +39,11 @@
         <p class="hidden-phone">{{ site.desc }}</p>
         <p class="hidden-phone">{{ site.sub-desc }}</p>
         {% include nav.html %}</br>
-	<audio controls="controls" height="100" width="100">
+	<audio id="music" controls="controls" height="100" width="100">
   		<source src="http://storage.live.com/items/D9101968C23B1EEE%211282?a.mp3" type="audio/mp3" />
+	MyAudioID=document.getElementById("music");
+	MyAudioID.autoplay=true;
+	MyAudioID.load();
 	</audio>
       </div>
     </div>
