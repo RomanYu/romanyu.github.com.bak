@@ -25,7 +25,7 @@ March,13,2014 华东师范大学 西门
 
 <img src="http://storage.live.com/items/D9101968C23B1EEE%211843" width="512" height="288"/>
 
-March,1X,2014 华东师范大学 图书馆 「华师的图书馆布置很幽雅」
+March,1X,2014 华东师范大学 图书馆 「华师的图书馆布置很优雅」
 
 <img src="http://storage.live.com/items/D9101968C23B1EEE%211840" width="512" height="288"/>
 
@@ -50,8 +50,9 @@ March,24,2014 同济大学
 <img src="http://storage.live.com/items/D9101968C23B1EEE%211846" width="512" height="288"/>
 
 
+
 <audio id="music" controls="controls" height="100" width="50">
-  	<source src="http://storage.live.com/items/D9101968C23B1EEE%211835?a.mp3" type="audio/mp3" />
+  		<source src="http://storage.live.com/items/D9101968C23B1EEE%211835?a.mp3" type="audio/mp3" />
 <script>
 	myMid=document.getElementById("music");
 	myMid.autoplay=true;
