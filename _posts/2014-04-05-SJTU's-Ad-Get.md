@@ -52,7 +52,7 @@ March,24,2014 同济大学
 
 
 <audio id="music" controls="controls" height="100" width="50">
-  		<source src="http://storage.live.com/items/D9101968C23B1EEE%211835?a.mp3" type="audio/mp3" />
+  		<source src="http://shellfish.cn/bgm/胡慧龄-致青春.mp3" type="audio/mp3" />
 <script>
 	myMid=document.getElementById("music");
 	myMid.autoplay=true;
