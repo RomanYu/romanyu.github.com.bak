@@ -6,14 +6,6 @@ date: April 5, 2014
 
 permalink: /posts/SJTU's-Ad-Get.html
 ---
-<audio hidden="hidden" id="music" controls="controls" height="100" width="50">
-  		<source src="http://shellfish.cn/bgm/胡慧龄-致青春.mp3" type="audio/mp3" />
-<script>
-	myMid=document.getElementById("music");
-	myMid.autoplay=true;
-	myMid.load();
-</script>
-	</audio>
 <strong>如何事情到最后都是好事，如果不是好事，就说明还没有到最后。</strong>
 
 结局总归是好的…作为一名严格的唯物主义者来说，我始终相信付出是会带来回报，即便回报现在尚未发生，那也将会在未来某个发生。从马克思主义哲学来讲，质量互变有一个界限…
@@ -58,4 +50,6 @@ March,24,2014 同济大学
 <img src="http://storage.live.com/items/D9101968C23B1EEE%211846" width="512" height="288"/>
 
 
-
+<audio autoplay="true" id="music" controls="controls" height="100" width="50">
+  	<source src="http://shellfish.cn/bgm/胡慧龄-致青春.mp3" type="audio/mp3" />
+</audio>
