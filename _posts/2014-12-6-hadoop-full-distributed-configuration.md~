@@ -4,7 +4,7 @@ title: hadoop完全分布式配置
 desc: <strong>hadoop配置有三种模式，单机，伪分布，完全分布式，本文主要介绍完全分布式。</strong>
 date: Dec 6, 2014
 
-permalink: /posts/SJTUs-Ad-Get.html
+permalink: /posts/hadoop-full-distributed-configuration.html
 ---
 hadoop配置有三种模式，单机，伪分布，完全分布式，本文主要介绍完全分布式。
 单机和伪分布都是在一个host上实现，单机没有尝试过，伪分布式成功过。实际上，较伪分布式而言，完全分布式多了一些步骤而已。
