@@ -16,7 +16,7 @@ hadoop配置有三种模式，单机，伪分布，完全分布式，本文主�
 准备工作：jdk、ssh无密码等 —> hadoop配置：环境变量和xml修改 —> 启hadoop 
 
 详细步骤见文档： 
-<iframe src = "/img/hadoop_distributed_configuration.pdf" width = "100%" height = " 100%"></iframe> 
+<iframe src = "/img/hadoop_distributed_configuration.pdf" width = "100%" height = "500"></iframe> 
 
 hadoop配置成功后，接下来就真正开始学习hadoop了！ 
  
